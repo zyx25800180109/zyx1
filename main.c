@@ -4,4 +4,5 @@ int main()
 {
     // @TODO: print a sentence you want.
     printf("work zyx\n");
+    printf("feature\n");
 }
